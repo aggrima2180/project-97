@@ -4,6 +4,8 @@ print("Number Gussing Game")
 number=random.randint(1,9)
 print("guess the number between 1 to 9")
 
+//zero is stored in chance variable
+
 chances=0
 
 while chances < 5:
